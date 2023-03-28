@@ -14,3 +14,7 @@ money = 20
 # A cup of Coca-Cola's price
 colaPrice = 3.5
 
+# We have to know that a variable's value can be changed
+# If we bought a cup of Coca-Cola, then we have...
+print("the remaining money is: ", money - colaPrice)  # 16.5
+
